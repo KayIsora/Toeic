@@ -62,6 +62,19 @@ Kho lưu trữ lộ trình, phiên học, kết quả làm bài, lỗi sai và t
 - Chiếm khoảng 15–25% khối lượng học trong ngày.
 - Dùng để sửa lỗi lặp lại nhưng không làm thay đổi trật tự của lộ trình cốt lõi.
 
+### Kênh tương tác với ChatGPT
+
+- **Chat là kênh chính** để giao đề, giải thích, chữa bài, Writing, Reading và quản lý toàn bộ lộ trình.
+- **Speaking không chấm trực tiếp bằng Voice**. Người học tự ghi âm đầy đủ câu trả lời rồi upload file ghi âm vào cuộc chat để ChatGPT nghe trọn câu và đánh giá.
+- Khi gửi bài Speaking, luôn gửi kèm đề tương ứng để có thể chấm cả nội dung:
+  - Q1–2: đoạn văn + file ghi âm.
+  - Q3–4: hình ảnh + file ghi âm.
+  - Q5–7: câu hỏi + file ghi âm.
+  - Q8–10: bảng/thông tin + câu hỏi + file ghi âm.
+  - Q11: câu hỏi + file ghi âm.
+- Voice/Share Screen chỉ là công cụ phụ nếu cần quan sát nhanh, **không dùng làm kênh chấm Speaking chính**.
+- File audio chỉ upload vào cuộc chat để đánh giá; không commit vào GitHub public.
+
 ## 4. Cấu trúc kho lưu trữ
 
 ```text
@@ -85,11 +98,12 @@ Toeic/
 
 1. Mở nguồn đề/tài liệu được chỉ định.
 2. Làm bài đúng thời gian và giữ nguyên câu trả lời đầu tiên.
-3. Tự ghi kết quả trực tiếp vào README của phiên.
-4. Dùng ChatGPT Web/Voice để chấm, giải thích và luyện lại.
-5. Người học tự cập nhật README; ChatGPT không tự ghi đè phần nhật ký học.
-6. Sau một test hoặc một part đủ lớn, chọn từ cần học và bổ sung vào `Vocabulary.xlsx`.
-7. Commit kết quả lên GitHub.
+3. Với Speaking: tự ghi âm trọn câu trả lời, không dừng/chỉnh giữa chừng; sau đó upload file cùng đề tương ứng vào ChatGPT.
+4. Với Writing/Reading: nhập câu trả lời hoặc gửi ảnh trực tiếp qua chat.
+5. ChatGPT chấm, giải thích, phân loại lỗi và đưa bài luyện bổ sung nếu cần.
+6. Người học tự ghi kết quả trực tiếp vào README của phiên; ChatGPT không tự ghi đè phần nhật ký học nếu không được yêu cầu rõ ràng.
+7. Sau một test hoặc một part đủ lớn, chọn từ cần học và bổ sung vào `Vocabulary.xlsx`.
+8. Commit kết quả lên GitHub.
 
 ## 6. Quy tắc riêng tư và bản quyền
 
@@ -106,14 +120,26 @@ SW_S02_2026-08-28_Read_Aloud
 LR_S01_YYYY-MM-DD_Diagnostic
 ```
 
+### Quy ước file ghi âm Speaking
+
+File ghi âm lưu cục bộ hoặc upload trực tiếp vào chat, ví dụ:
+
+```text
+SW_S01_Q01.m4a
+SW_S01_Q02.m4a
+SW_S01_Q03.m4a
+```
+
+Khuyến nghị một file cho một câu; với Q5–7 hoặc Q8–10 có thể gửi theo từng câu để việc chấm và đối chiếu rõ ràng hơn.
+
 ## 8. Trạng thái hiện tại
 
 | Hạng mục | Trạng thái |
 |---|---|
 | Kết nối GitHub | Hoàn tất |
 | Khung repo | Hoàn tất |
-| Phiên SW_S01 | Đã tạo, chưa làm |
-| Diagnostic Speaking & Writing | Chưa làm |
+| Phiên SW_S01 | Đang thực hiện |
+| Diagnostic Speaking & Writing | Đang thực hiện |
 | Điểm nền | Chưa xác định |
 | Ngày thi Speaking & Writing | 16/09/2026 |
 | Ngày thi Listening & Reading | Chưa đăng ký |
