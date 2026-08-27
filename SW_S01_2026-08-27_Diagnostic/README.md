@@ -1,0 +1,130 @@
+# Session Information
+
+- Session: SW_S01
+- Date: 27/08/2026
+- Skill: Speaking & Writing
+- TOEIC Part: Full diagnostic
+- Source:
+  - ETS official sample materials: https://www.ets.org/toeic/test-takers/prepare.html
+  - IIG Speaking mock 2026: https://elearning.iigvietnam.com/bai-viet/giai-de-toeic-speaking-chi-tiet-1
+  - IIG Writing practice 2026: https://elearning.iigvietnam.com/bai-viet/toeic-writing-co-dap-an-2026
+- Time Limit: Speaking khoảng 20 phút; Writing khoảng 60 phút
+- Target: Xác định điểm nền, tốc độ và lỗi chính; chưa đặt mục tiêu điểm cho phiên đầu.
+
+## 1. Instructions
+
+### A. Speaking diagnostic
+
+Hoàn thành đủ 11 câu theo cấu trúc hiện hành:
+
+- Q1–2: Read a Text Aloud.
+- Q3–4: Describe a Picture.
+- Q5–7: Respond to Questions.
+- Q8–10: Respond to Questions Using Information Provided.
+- Q11: Express an Opinion.
+
+Thực hiện bằng Voice/Share Screen hoặc tự ghi âm cục bộ. Không commit file ghi âm lên repo.
+
+Ghi lại sau mỗi câu:
+
+- Có trả lời hết thời gian không?
+- Có bị đứng quá 3 giây không?
+- Có hiểu đúng câu hỏi không?
+- Tự đánh giá phát âm, ngữ điệu, ngữ pháp, từ vựng và độ đầy đủ.
+- Có thể ghi transcript gần đúng nếu cần chữa chi tiết.
+
+### B. Writing diagnostic
+
+Hoàn thành đủ 8 câu:
+
+- Q1–5: Write a Sentence Based on a Picture.
+- Q6–7: Respond to a Written Request.
+- Q8: Write an Opinion Essay.
+
+Giữ nguyên câu trả lời đầu tiên. Không sửa trước khi gửi GPT chấm và phân tích.
+
+### C. Nguyên tắc chấm
+
+- GPT chỉ đưa điểm ước lượng, không phải điểm ETS chính thức.
+- Ghi riêng Speaking và Writing.
+- Ưu tiên xác định dạng câu hỏi yếu, lỗi lặp lại và vấn đề thời gian.
+- Sau diagnostic vẫn tiếp tục đúng D02 của lộ trình; bài sửa lỗi được đưa vào mục bổ sung.
+
+## 2. My Original Answers
+
+### Speaking
+
+#### Q1
+
+#### Q2
+
+#### Q3
+
+#### Q4
+
+#### Q5
+
+#### Q6
+
+#### Q7
+
+#### Q8
+
+#### Q9
+
+#### Q10
+
+#### Q11
+
+### Writing
+
+#### Q1
+
+#### Q2
+
+#### Q3
+
+#### Q4
+
+#### Q5
+
+#### Q6
+
+#### Q7
+
+#### Q8
+
+## 3. Score / Estimated Score
+
+- Speaking estimated score:
+- Writing estimated score:
+- Internal S + W tracking total:
+- Timing observations:
+
+## 4. Detailed Corrections
+
+## 5. Error Analysis
+
+| Question | My Answer | Correct / Better Answer | Error Type | Explanation |
+|---|---|---|---|---|
+| | | | | |
+
+## 6. Corrected Version
+
+## 7. Vocabulary Added
+
+| English | Loại từ / cụm từ | Nghĩa tiếng Việt |
+|---|---|---|
+| | | |
+
+## 8. What I Learned
+
+## 9. Items to Review
+
+## 10. Next Session
+
+- D02 – Speaking Q1–2: Read a Text Aloud.
+
+## 11. Bài bổ sung theo lỗi
+
+> Chỉ thêm sau khi diagnostic đã hoàn thành. Không thay thế D02.
