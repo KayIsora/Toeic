@@ -10,6 +10,11 @@
 
 ## 1. Instructions
 
+- Chat là kênh tương tác chính.
+- Với Speaking: ghi âm trọn câu trả lời rồi upload file vào chat cùng đề tương ứng; không dùng Voice làm kênh chấm chính.
+- Không commit file ghi âm lên GitHub public.
+- Với Writing/Reading: nhập câu trả lời hoặc gửi ảnh trực tiếp qua chat.
+
 ## 2. My Original Answers
 
 > Giữ nguyên câu trả lời đầu tiên để theo dõi tiến bộ. Không sửa đè trước khi chấm.
