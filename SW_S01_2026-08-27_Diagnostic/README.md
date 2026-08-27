@@ -23,15 +23,27 @@ Hoàn thành đủ 11 câu theo cấu trúc hiện hành:
 - Q8–10: Respond to Questions Using Information Provided.
 - Q11: Express an Opinion.
 
-Thực hiện bằng Voice/Share Screen hoặc tự ghi âm cục bộ. Không commit file ghi âm lên repo.
+#### Cách làm Speaking mới
 
-Ghi lại sau mỗi câu:
+- Không dùng Voice/Share Screen làm kênh chấm chính.
+- Với mỗi câu, tự bấm giờ theo đề và ghi âm **toàn bộ câu trả lời từ đầu đến cuối**.
+- Không thu lại chỉ vì nói sai; ưu tiên giữ lần trả lời đầu tiên để diagnostic phản ánh đúng năng lực hiện tại.
+- Upload file ghi âm trực tiếp vào cuộc chat với ChatGPT. Không commit audio lên repo public.
+- Luôn gửi kèm đề của câu đó để ChatGPT chấm cả nội dung:
+  - Q1–2: gửi đoạn văn + audio.
+  - Q3–4: gửi ảnh + audio.
+  - Q5–7: gửi câu hỏi + audio.
+  - Q8–10: gửi bảng/thông tin, câu hỏi + audio.
+  - Q11: gửi câu hỏi + audio.
+- Khuyến nghị tên file: `SW_S01_Q01.m4a`, `SW_S01_Q02.m4a`, ...
+- ChatGPT đánh giá sau khi nghe trọn file; không ngắt câu trả lời giữa chừng.
+
+Sau mỗi câu, người học có thể tự ghi lại:
 
 - Có trả lời hết thời gian không?
 - Có bị đứng quá 3 giây không?
 - Có hiểu đúng câu hỏi không?
-- Tự đánh giá phát âm, ngữ điệu, ngữ pháp, từ vựng và độ đầy đủ.
-- Có thể ghi transcript gần đúng nếu cần chữa chi tiết.
+- Có thu lại không? Nếu có, phải ghi rõ để không làm sai diagnostic.
 
 ### B. Writing diagnostic
 
@@ -41,12 +53,13 @@ Hoàn thành đủ 8 câu:
 - Q6–7: Respond to a Written Request.
 - Q8: Write an Opinion Essay.
 
-Giữ nguyên câu trả lời đầu tiên. Không sửa trước khi gửi GPT chấm và phân tích.
+Giữ nguyên câu trả lời đầu tiên. Không sửa trước khi gửi GPT chấm và phân tích. Writing tương tác trực tiếp bằng chat; có thể paste câu trả lời hoặc gửi ảnh nếu cần.
 
 ### C. Nguyên tắc chấm
 
 - GPT chỉ đưa điểm ước lượng, không phải điểm ETS chính thức.
 - Ghi riêng Speaking và Writing.
+- Speaking được đánh giá dựa trên file ghi âm hoàn chỉnh + đề tương ứng, tập trung vào phát âm, ngữ điệu, độ trôi chảy, ngữ pháp, từ vựng và mức độ đáp ứng yêu cầu.
 - Ưu tiên xác định dạng câu hỏi yếu, lỗi lặp lại và vấn đề thời gian.
 - Sau diagnostic vẫn tiếp tục đúng D02 của lộ trình; bài sửa lỗi được đưa vào mục bổ sung.
 
