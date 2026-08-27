@@ -1,0 +1,26 @@
+# Audio, video and screen recordings must stay local
+*.mp3
+*.wav
+*.m4a
+*.aac
+*.mp4
+*.mov
+*.mkv
+recordings/
+Recordings/
+
+# Private or identifying material
+private/
+Private/
+personal/
+Personal/
+
+# Microsoft Office temporary files
+~$*.xlsx
+~$*.xls
+~$*.docx
+
+# Operating-system files
+Thumbs.db
+Desktop.ini
+.DS_Store
