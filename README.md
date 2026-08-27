@@ -111,7 +111,8 @@ LR_S01_YYYY-MM-DD_Diagnostic
 | Hạng mục | Trạng thái |
 |---|---|
 | Kết nối GitHub | Hoàn tất |
-| Khung repo | Đang khởi tạo |
+| Khung repo | Hoàn tất |
+| Phiên SW_S01 | Đã tạo, chưa làm |
 | Diagnostic Speaking & Writing | Chưa làm |
 | Điểm nền | Chưa xác định |
 | Ngày thi Speaking & Writing | 16/09/2026 |
