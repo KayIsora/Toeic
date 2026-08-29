@@ -106,7 +106,18 @@ Giữ nguyên câu trả lời đầu tiên. Không sửa trước khi gửi GPT
 #### Q7
 
 #### Q8
+Dear Jennifer Martinez,
 
+Thank you for contacting me. I really enjoyed the Mountain Adventure tour.
+
+First, I really enjoyed the trail because the scenery was beautiful and relaxing. The breakfast was also very good, and I really enjoyed the food. In addition, the tour leader was very energetic and friendly.
+
+I suggest making the tour a little longer so guests have more time to relax and enjoy the activities.
+
+Thank you again for the wonderful experience.
+
+Best regards,
+Christopher Harris
 ## 3. Score / Estimated Score
 
 - Speaking estimated score:
